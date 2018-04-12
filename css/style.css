@@ -239,12 +239,12 @@ a.btn-social,
     margin-top: 25px;
 }
 
-.darkred {
+.darkredfooter {
     background-color: #A22527;
     padding-top: 30px;
 }
 
-/*LOGO PAGE*/
+/*DETAIL PAGES*/
 
 .jumbotron2 {
     background-color: lightgray;
@@ -271,6 +271,100 @@ a.btn-social,
 .jumbo2box {
     margin: 0 auto;
 }
+
+/*LOGO PAGE*/
+
+.logoshow{
+    height: 300px;
+    display: block;
+    margin: 0 auto;
+}
+
+.logoinfo{
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+.fout{
+    margin: 15px;
+    padding: 15px;
+}
+
+/*COLOUR PAGE*/
+
+.colourbox{
+    height: 300px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.colourboxtext{
+    height: 150px;
+    margin-left: 20px;
+    margin-right: 20px;
+    background-color: rgb(241, 241, 241)!important;
+    padding: 30px;
+    padding-left: 50px;
+    padding-right: 50px;
+    color: #3f3f3f;
+}
+
+.colorclass{
+    font-family: 'Roboto';
+    font-weight: 700;
+}
+
+.colorinfo{
+    font-family: 'Roboto';
+    font-weight: 400;
+}
+
+.red{
+    background-color: #C1282E;
+}
+
+.gold{
+    background-color: #DFA756;
+}
+
+.black{
+    background-color: #3f3f3f;
+
+}
+
+.colorname{
+    font-family: 'Roboto';
+    font-weight: 700;
+    font-size: 25px;
+    color: white;
+    text-align: center;
+    padding-top: 135px;
+}
+
+.darkred{
+    background-color: #A22527;
+}
+
+.darkgold{
+    background-color: #CE9850;
+}
+
+.darkblack{
+    background-color: #000000;
+}
+
+.brightred{
+    background-color: #FF1B1C;
+}
+
+.brightgold{
+    background-color: #DFA61D;
+}
+
+
+
+/*TYPO*/
+
 
 /* Small devices (landscape phones, 100px and up) */
 
@@ -308,6 +402,10 @@ a.btn-social,
     }
     .jumbo2box {
         padding-top: 250px;
+    }
+
+    .colourboxtext{
+        margin-bottom: 25px;
     }
 }
 
