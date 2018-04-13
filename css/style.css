@@ -278,6 +278,14 @@ a.btn-social,
     background-image: url(../images/img/downloadheader.svg);
 }
 
+.jumbo6 {
+    background-image: url(../images/img/beeldheader.svg);
+}
+
+.jumbo7 {
+    background-image: url(../images/img/toepassingheader.svg);
+}
+
 .jumbo2box {
     margin: 0 auto;
 }
@@ -421,6 +429,18 @@ a.btn-download,
 .downloaddescription{
     margin: 0px;
 }
+
+/*BEELD*/
+
+.foto{
+    width: 100%;
+    padding: 15px;
+}
+
+.foto2{
+    width: 100%;
+}
+
 /* Small devices (landscape phones, 100px and up) */
 
 @media (min-width: 100px) {
